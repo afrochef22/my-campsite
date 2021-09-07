@@ -1,1 +1,3 @@
+preventing the "dist" folder from being added to the git repository:
 node_modules
+dist
